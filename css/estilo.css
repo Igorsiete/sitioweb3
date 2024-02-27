@@ -1,3 +1,13 @@
 body{
     background: red;
 }
+#foto{
+    display: flex;
+    justify-content: center;
+}
+.uno{
+    visibility: hidden;
+}
+.dos{
+    visibility: inherit;
+}
